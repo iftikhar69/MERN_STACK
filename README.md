@@ -261,8 +261,3 @@ sudo systemctl restart nginx
 
 ---
 
-## 🧑‍💻 Author
-Satyam Singh
-Full Stack Developer
-[LinkedIn](https://www.linkedin.com/in/satyam-singh-dev)
-[YouTube](https://www.linkedin.com/in/satyam-singh-dev)
